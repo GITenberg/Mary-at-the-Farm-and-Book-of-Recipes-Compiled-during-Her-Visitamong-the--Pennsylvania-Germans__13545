@@ -1,0 +1,32 @@
+_repo: Mary-at-the-Farm-and-Book-of-Recipes-Compiled-during-Her-Visitamong-the--Pennsylvania-Germans__13545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Edith May Bertels
+    birthdate: 1859
+    gutenberg_agent_id: '5121'
+    url: http://www.gutenberg.org/2009/agents/5121
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cookbooks'
+- !lcc 'TX'
+- !lcsh 'Pennsylvania -- Social life and customs'
+- !lcc 'F106'
+- !lcsh 'Germans -- Pennsylvania'
+- !lcsh 'Cooking -- Pennsylvania'
+title: 'Mary at the Farm and Book of Recipes Compiled during Her Visit
+
+  among the "Pennsylvania Germans"'
+url: http://www.gutenberg.org/ebooks/13545
